@@ -1,0 +1,39 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Rvisns,Vishay-Dale,CRCW04022K00FKED,1,0.01,3,Resistance: 2 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cslope,Kemet,C0603C750J5GACTU,1,0.01,4.68,Cap: 75 pF  Total Derated Cap: 75 pF  VDC: 50 V  ESR: 0 Ω  Package: 0603  
+Dboot1,Vishay-Semiconductor,BYS10-25-E3/TR,1,0.11,37.34,Type: Schottky  VRRM: 25 V  Io: 1.5 A  
+M2,Texas Instruments,CSD17571Q2,1,0.09,9,VdsMax: 30 V  IdsMax: 22 Amps  
+Rfbb,Yageo,RC0603FR-0720KL,1,0.01,4.68,Resistance: 20 kΩ  Tolerance: 1.0%  Power: 100 mW  
+Rfbt,Vishay-Dale,CRCW0603280KFKEA,1,0.01,4.68,Resistance: 280 kΩ  Tolerance: 1.0%  Power: 100 mW  
+Ruvt,Yageo,RC0201FR-07249KL,1,0.01,2.08,Resistance: 249 kΩ  Tolerance: 1.0%  Power: 50 mW  
+Coutx,TDK,C2012X5R1V226M125AC,1,0.31,6.75,Cap: 22 µF  Total Derated Cap: 3.7 µF  VDC: 35 V  ESR: 2.05 mΩ  Package: 0805  
+Rcomp,Vishay-Dale,CRCW04024K12FKED,1,0.01,3,Resistance: 4.12 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cvcc,Taiyo Yuden,EMK107B7105KA-T,1,0.01,4.68,Cap: 1 µF  Total Derated Cap: 1 µF  VDC: 16 V  ESR: 1 mΩ  Package: 0603  
+Ccomp,TDK,CGA1A2X7R1A103K030BA,1,0.01,2.08,Cap: 10 nF  Total Derated Cap: 10 nF  VDC: 10 V  ESR: 280.21 mΩ  Package: 0201_033  
+Rcsp,Vishay-Dale,CRCW0603100RFKEA,1,0.01,4.68,Resistance: 100 Ω  Tolerance: 1.0%  Power: 100 mW  
+Rt,Yageo,RC0201FR-0723K7L,1,0.01,2.08,Resistance: 23.7 kΩ  Tolerance: 1.0%  Power: 50 mW  
+Rcsg,Vishay-Dale,CRCW0603100RFKEA,1,0.01,4.68,Resistance: 100 Ω  Tolerance: 1.0%  Power: 100 mW  
+M4,Texas Instruments,CSD17571Q2,1,0.09,9,VdsMax: 30 V  IdsMax: 22 Amps  
+M3,Texas Instruments,CSD15571Q2,1,0.09,9,VdsMax: 20 V  IdsMax: 22 Amps  
+M1,Texas Instruments,CSD15571Q2,1,0.09,9,VdsMax: 20 V  IdsMax: 22 Amps  
+Cbulk,Panasonic,25SVPF100M,1,0.66,106.09,Cap: 100 µF  Total Derated Cap: 100 µF  VDC: 25 V  ESR: 24 mΩ  Package: 8x6.9  
+Ccs,AVX,06035A470JAT2A,1,0.01,4.68,Cap: 47 pF  Total Derated Cap: 47 pF  VDC: 50 V  ESR: 174 mΩ  Package: 0603  
+Ccomp2,Samsung Electro-Mechanics,CL21C271JBANNNC,1,0.01,6.75,Cap: 270 pF  Total Derated Cap: 270 pF  VDC: 50 V  ESR: 0 Ω  Package: 0805  
+Coutx3,TDK,C2012X5R1V226M125AC,1,0.31,6.75,Cap: 22 µF  Total Derated Cap: 3.7 µF  VDC: 35 V  ESR: 2.05 mΩ  Package: 0805  
+Coutx2,TDK,C2012X5R1V226M125AC,1,0.31,6.75,Cap: 22 µF  Total Derated Cap: 3.7 µF  VDC: 35 V  ESR: 2.05 mΩ  Package: 0805  
+Cf,TDK,CGA3E2X7R1H104K080AA,1,0.01,4.68,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 50 V  ESR: 29.6 mΩ  Package: 0603  
+Cin,MuRata,GRM32ER61E226KE15L,2,0.23,14.7,Cap: 22 µF  Total Derated Cap: 18 µF  VDC: 25 V  ESR: 2 mΩ  Package: 1210  
+Df,Vishay-Semiconductor,BYS10-25-E3/TR,1,0.11,37.34,Type: Schottky  VRRM: 25 V  Io: 1.5 A  
+Css,Kemet,C0603C153J3GACTU,1,0.09,4.68,Cap: 15 nF  Total Derated Cap: 15 nF  VDC: 25 V  ESR: 0 Ω  Package: 0603  
+Dboot2,Fairchild Semiconductor,MBR1020VL,1,0.06,11.7,Type: Schottky  VRRM: 20 V  Io: 1 A  
+Ruvb,Vishay-Dale,CRCW020144K2FNED,1,0.01,2.08,Resistance: 44.2 kΩ  Tolerance: 1.0%  Power: 50 mW  
+Rsense,Susumu Co Ltd,PRL1632-R012-F-T1,1,0.2,10.92,Resistance: 12 mΩ  Tolerance: 1.0%  Power: 1 W  
+U1,Texas Instruments,LM34936QPWPRQ1,1,2.726,98.28,
+Rpg,Yageo,RC0603FR-0710KL,1,0.01,4.68,Resistance: 10 kΩ  Tolerance: 1.0%  Power: 100 mW  
+Cbias,AVX,08053C104KAT2A,1,0.01,6.75,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 25 V  ESR: 280 mΩ  Package: 0805  
+Rf,Yageo,RC0603FR-0710RL,1,0.01,4.68,Resistance: 10 Ω  Tolerance: 1.0%  Power: 100 mW  
+Cboot1,AVX,06033C104KAT2A,1,0.01,4.68,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 25 V  ESR: 50 mΩ  Package: 0603  
+Cboot2,AVX,06033C104KAT2A,1,0.01,4.68,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 25 V  ESR: 50 mΩ  Package: 0603  
+Cout,MuRata,GRM32ER61C476KE15L,3,0.17,14.7,Cap: 47 µF  Total Derated Cap: 41 µF  VDC: 16 V  ESR: 3.04 mΩ  Package: 1210  
+L1,Coilcraft,XAL6030-182MEB,1,0.65,71.56,L: 1.8 µH  DCR: 9.6 mΩ  IDC: 14 A  
+Rmode,Yageo,RC0603FR-0793K1L,1,0.01,4.68,Resistance: 93.1 kΩ  Tolerance: 1.0%  Power: 100 mW  
